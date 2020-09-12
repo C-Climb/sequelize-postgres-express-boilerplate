@@ -1,5 +1,5 @@
 {
-    "name": "sequelize-express-boilerplate",
+    "name": "sequelize-postgres-express-boilerplate",
     "version": "1.0.0",
     "description": "Boilerplate for sequelize & express because I'm tired of rewriting the same code over & over.",
     "main": "app.js",
